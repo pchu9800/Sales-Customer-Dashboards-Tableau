@@ -31,8 +31,7 @@ Interactive Tableau dashboards for sales and customer analytics with cross-filte
 ```
 .
 ├── README.md
-├── tableau/
-│   └── sales_customer_dashboard.twbx
+├── sales_customer_dashboard.twbx
 ```
 
 ---
